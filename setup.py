@@ -4,8 +4,8 @@ from os.path import abspath, dirname, join
 README_MD = open(join(dirname(abspath(__file__)), "README.md")).read()
 
 setup(
-    name="stringtoolsfpat",
-    version="0.0.1",
+    name="numtoolsfpat",
+    version="0.0.2",
     packages=find_packages(),
     description="Number tools",
     long_description=README_MD,
