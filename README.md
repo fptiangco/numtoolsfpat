@@ -5,8 +5,3 @@
 | Code | [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) |
 | Scan | [![Updates](https://pyup.io/repos/github/fptiangco/numtoolsfpat/shield.svg)](https://pyup.io/repos/github/fptiangco/numtoolsfpat/) |
 | Docs | [![Read the Docs](https://readthedocs.org/projects/numtoolsfpat/badge/?version=latest)](https://numtoolsfpat.readthedocs.io/en/latest/) |
-
-
-
-### Summary
-Lorem Ipsum
