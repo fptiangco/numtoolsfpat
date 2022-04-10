@@ -5,7 +5,7 @@ README_MD = open(join(dirname(abspath(__file__)), "README.md")).read()
 
 setup(
     name="numtoolsfpat",
-    version="0.0.4",
+    version="0.0.5",
     packages=find_packages(),
     description="Number tools",
     long_description=README_MD,
